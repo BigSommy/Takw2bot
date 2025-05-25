@@ -1,0 +1,1 @@
+worker: python Take2bot.py
